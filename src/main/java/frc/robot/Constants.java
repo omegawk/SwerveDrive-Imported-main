@@ -63,7 +63,7 @@ public final class Constants {
     //Angles for the four presets 
     public static final double kAmpAngle = 1.801266;
     public static final double kHerdAngle = 0;
-    public static final double kSpeakerCloseAngle = 0.476566;
+    public static final double kSpeakerCloseAngle = 0.4101;
     public static final double kSpeakerFarAngle = 0.638889;
 
     //
@@ -75,7 +75,7 @@ public final class Constants {
     public static final double kForwardSpeed = 0.25;
     public static final double kBackwardSpeed = -0.25;
     //test
-    public static final double kPArm = 0.5;
+    public static final double kPArm = 0.75;
   }
 
   public static class FlyConstants{
